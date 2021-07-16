@@ -53,6 +53,6 @@
     - In windows command is ```venv\Script\activate```
     - In linux based operating system and mac command is ```source venv/scripts/activate```
 3. Package you need to install
-    - ```pip install -r requirement.txt```
+    - ```pip install -r requirements.txt```
 4. After installing packages and activating virtual environment cd in backend folder and run command ```python manage.py migrate```
 6. And to run the project run command ```python manage.py runserver```
